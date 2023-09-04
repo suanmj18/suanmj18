@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Python Scrapy Framework.
-- 🌱 I’m currently learning about REST APIs.
-- 💬 Ping me about Python/Django Development, Web Scraping
-- 📫 Reach me out at my mail-id suanmj18899@gmail.com
+- 🔭 I’m currently working on Spring Boot and Angular Framework.
+- 💬 Ping me about Python/Django, Java, and Angular Development.
+- 📫 Reach me out at my mail id suanmj18899@gmail.com
 
 <img src='https://github-readme-stats.vercel.app/api?username=suanmj18&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919'>
